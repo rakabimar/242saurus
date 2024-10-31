@@ -27,9 +27,13 @@ rakabimar:
   title: rakabimar
   url: https://github.com/rakabimar
   image_url: https://github.com/rakabimar.png
+  socials:
+    github: rakabimar
 
 githubhiseka:
   name: Abhiseka Susanto
   title: githubhiseka
   url: https://github.com/githubhiseka
   image_url: https://github.com/githubhiseka.png
+  socials:
+    github: githubhiseka
